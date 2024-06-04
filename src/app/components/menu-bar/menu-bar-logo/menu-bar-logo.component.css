@@ -1,0 +1,5 @@
+.menu-bar__logo {
+  margin: 0 16px;
+  display: flex;
+  align-items: center;
+}
